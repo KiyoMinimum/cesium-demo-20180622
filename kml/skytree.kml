@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml 
+  xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>東京スカイツリー</name>
+    <description>東京スカイツリーは、東京都墨田区押上一丁目にある電波塔である。</description>
+    <Point>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>139.810700, 35.710063, 634</coordinates>
+    </Point>
+  </Placemark>
+</kml>

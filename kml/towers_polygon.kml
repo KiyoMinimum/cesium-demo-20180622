@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>東京の高い建物を結ぶポリゴン</name>
+    <Placemark>
+      <Polygon>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+            <coordinates>
+              139.810700,35.710063,634.
+              139.745433,35.658580,333.
+              139.692101,35.689634,243.4
+              139.810700,35.710063,634.
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>        
+      <Style id="transRedPoly">
+        <LineStyle>
+          <color>#ccffffcc</color>
+          <width>3.0</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>#ccffcc00</color>
+        </PolyStyle>
+      </Style>    
+    </Placemark>
+  </Folder>
+</kml>

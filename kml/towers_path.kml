@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml 
+  xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>東京の高い建物を結ぶ</name>
+    <Placemark>
+      <LineString>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <tessellate>1</tessellate>
+        <coordinates>
+          139.810700,35.710063,634.
+          139.745433,35.658580,333.
+          139.692101,35.689634,243.4
+        </coordinates>
+      </LineString>
+      <Style>
+        <LineStyle>
+          <color>#ffcc9933</color>
+          <width>5.0</width>
+        </LineStyle>
+      </Style>
+    </Placemark>
+  </Folder>
+</kml>

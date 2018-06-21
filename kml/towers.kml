@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>東京の高い建物</name>
+    <Placemark>
+      <name>東京スカイツリー</name>
+      <description>東京スカイツリーは、東京都墨田区押上一丁目にある電波塔である。</description>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>139.810700, 35.710063, 634</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東京タワー</name>
+      <description>東京都港区芝公園にある総合電波塔の愛称である。</description>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>139.745433, 35.658580, 333</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東京都庁舎</name>
+      <description>東京都の新宿副都心にある、東京都庁の本庁舎。</description>
+      <Point>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>139.692101,35.689634,243.4</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</kml>
