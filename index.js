@@ -5,7 +5,7 @@
 //Cesium地図ビューワの作成
 
 var viewer = new Cesium.Viewer('cesiumContainer'); viewer.dataSources.add(Cesium.KmlData
-Source.load('http://sagara10 20.github.io/cesium-tokyo/cesium-starter-app- master/Source/test.kml')); 
+Source.load('https://github.com/KiyoMinimum/cesium-demo-20180622/blob/master/kml/towers_polygon.kml')); 
 
 var e = viewer.dataSources.add(Cesium.CzmlDataSource.load(t1));
 viewer.zoomTo(e);
